@@ -52,13 +52,9 @@ The PDF file was uploaded to the browser-based Hash Calculator to generate the h
 
 ![Calculator](Screenshot%202026-11-21%20231143.png)
 
-### 3. PDF Hash Extraction
+### 3. PDF Hash Extraction and Password Recovery Using Networkwalks Password Cracker
 
 The tool generated the PDF hash, beginning with $pdf$
-
-![Extraction](Screenshot%202026-11-21%20231825.png)
-
-### 4. Password Recovery Using Networkwalks Password Cracker
 
 The hash was entered into the online cracker to recover the password.
 
@@ -68,6 +64,7 @@ The hash was entered into the online cracker to recover the password.
 
 Successful access confirmed the recovery process worked.
 
+![Extraction](Screenshot%202026-11-21%20231825.png)
 ## TOOLS AND LEARNING OUTCOMES
 
 Tools included JTR, Johnny, Hash Calculator, and Windows 11. I gained experience in hash extraction and password security assessment.
